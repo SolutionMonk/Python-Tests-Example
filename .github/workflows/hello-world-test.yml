@@ -1,5 +1,5 @@
 name: Test-Example
-on: [push, workflow_run]
+on: [push]
 jobs:
   build:
     runs-on: ubuntu-latest
